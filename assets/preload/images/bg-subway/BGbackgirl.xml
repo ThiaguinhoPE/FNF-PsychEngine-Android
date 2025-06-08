@@ -1,0 +1,18 @@
+<TextureAtlas imagePath="BGBackgirl.png">
+	
+	
+	<SubTexture name="Symbol 6 instance 10000" x="0" y="0" width="82" height="99" frameX="0" frameY="-3" frameWidth="82" frameHeight="101" />
+	<SubTexture name="Symbol 6 instance 10001" x="0" y="0" width="82" height="99" frameX="0" frameY="-3" frameWidth="82" frameHeight="101" />
+	<SubTexture name="Symbol 6 instance 10002" x="83" y="0" width="81" height="100" frameX="-1" frameY="-1" frameWidth="82" frameHeight="101" />
+	<SubTexture name="Symbol 6 instance 10003" x="83" y="0" width="81" height="100" frameX="-1" frameY="-1" frameWidth="82" frameHeight="101" />
+	<SubTexture name="Symbol 6 instance 10004" x="165" y="0" width="80" height="101" frameX="-1" frameY="0" frameWidth="82" frameHeight="101" />
+	<SubTexture name="Symbol 6 instance 10005" x="165" y="0" width="80" height="101" frameX="-1" frameY="0" frameWidth="82" frameHeight="101" />
+	<SubTexture name="Symbol 6 instance 10006" x="0" y="102" width="80" height="101" frameX="-1" frameY="0" frameWidth="82" frameHeight="101" />
+	<SubTexture name="Symbol 6 instance 10007" x="0" y="102" width="80" height="101" frameX="-1" frameY="0" frameWidth="82" frameHeight="101" />
+	<SubTexture name="Symbol 6 instance 10008" x="0" y="102" width="80" height="101" frameX="-1" frameY="0" frameWidth="82" frameHeight="101" />
+	<SubTexture name="Symbol 6 instance 10009" x="0" y="102" width="80" height="101" frameX="-1" frameY="0" frameWidth="82" frameHeight="101" />
+	<SubTexture name="Symbol 6 instance 10010" x="0" y="102" width="80" height="101" frameX="-1" frameY="0" frameWidth="82" frameHeight="101" />
+	<SubTexture name="Symbol 6 instance 10011" x="0" y="102" width="80" height="101" frameX="-1" frameY="0" frameWidth="82" frameHeight="101" />
+	<SubTexture name="Symbol 6 instance 10012" x="0" y="102" width="80" height="101" frameX="-1" frameY="0" frameWidth="82" frameHeight="101" />
+	<SubTexture name="Symbol 6 instance 10013" x="0" y="102" width="80" height="101" frameX="-1" frameY="0" frameWidth="82" frameHeight="101" />
+</TextureAtlas>

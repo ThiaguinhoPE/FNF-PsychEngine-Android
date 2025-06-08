@@ -1,0 +1,18 @@
+<TextureAtlas imagePath="HOLY_women.png">
+	
+	
+	<SubTexture name="animegirl0000" x="0" y="0" width="128" height="127" />
+	<SubTexture name="animegirl0001" x="0" y="0" width="128" height="127" />
+	<SubTexture name="animegirl0002" x="129" y="0" width="128" height="127" />
+	<SubTexture name="animegirl0003" x="129" y="0" width="128" height="127" />
+	<SubTexture name="animegirl0004" x="259" y="0" width="128" height="127" />
+	<SubTexture name="animegirl0005" x="259" y="0" width="128" height="127" />
+	<SubTexture name="animegirl0006" x="0" y="128" width="128" height="127" />
+	<SubTexture name="animegirl0007" x="0" y="128" width="128" height="127" />
+	<SubTexture name="animegirl0008" x="0" y="128" width="128" height="127" />
+	<SubTexture name="animegirl0009" x="0" y="128" width="128" height="127" />
+	<SubTexture name="animegirl0010" x="0" y="128" width="128" height="127" />
+	<SubTexture name="animegirl0011" x="0" y="128" width="128" height="127" />
+	<SubTexture name="animegirl0012" x="0" y="128" width="128" height="127" />
+	<SubTexture name="animegirl0013" x="0" y="128" width="128" height="127" />
+</TextureAtlas>
