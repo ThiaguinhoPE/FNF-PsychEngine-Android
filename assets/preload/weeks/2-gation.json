@@ -1,0 +1,25 @@
+{
+	"songs": [
+		["Mamigation", "mami-mamigation", [0, 0, 0]]
+	],
+
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Hard, Holy",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Mackingham Palace",
+	"weekName": "Mami",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

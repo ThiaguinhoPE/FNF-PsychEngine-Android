@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Connect",
+			"mami",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Reminisce",
+			"mami",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Salvation",
+			"mami-holy",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "hard, holy",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Mackingham Palace",
+	"weekName": "Mami",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
