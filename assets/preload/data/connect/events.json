@@ -1,0 +1,66 @@
+{
+	"song": {
+		"events": [
+			[
+				685.714285714286,
+				[
+					[
+						"Flashing Camera",
+						"ffffff",
+						"1"
+					],
+					[
+						"CamaraZoom",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				71657.1428571429,
+				[
+					[
+						"Flashing Camera",
+						"ffffff",
+						"1"
+					],
+					[
+						"CamaraZoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				74400,
+				[
+					[
+						"CamaraZoom",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				77142.8571428571,
+				[
+					[
+						"Flashing Camera",
+						"ffffff",
+						"1"
+					]
+				]
+			],
+			[
+				82628.5714285714,
+				[
+					[
+						"Flashing Camera",
+						"ffffff",
+						"1"
+					]
+				]
+			]
+		]
+	}
+}
