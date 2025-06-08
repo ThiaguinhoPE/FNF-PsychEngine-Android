@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-99
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-169,
+				-152
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-230,
+				-130
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-230,
+				-160
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right instance 1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-160,
+				-110
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle instance 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mami_Mamigation",
+	"position": [
+		-140,
+		-100
+	],
+	"healthicon": "mami-mamigation",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		48,
+		39
+	],
+	"camera_position": [
+		170,
+		-100
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 4
+}
